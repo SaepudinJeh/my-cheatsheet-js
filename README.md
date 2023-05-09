@@ -7,16 +7,10 @@ Contains a collection of previously worked on function javascript cheat sheets
 ```javascript
 const data = [
     {
-        isBan: false,
-        idAccount: "643baa6b2ec2982520e8585d",
-        idUser: "643baa6b2ec2982520e8585f",
         _id: "643baa6b2ec2982520e8585d",
         countryId: "+62",
         email: null,
         fullName: "Brett Nicolas",
-        phoneNumber: "85722440592",
-        profiles: [],
-        activeProfile: "643baa6b2ec2982520e8585c",
         social: [
             {
                 _id: "6454fc728529d2fb77e663c1",
@@ -29,9 +23,6 @@ const data = [
                 email: "madara58senju@yahoo.com"
             }
         ],
-        user: "643baa6b2ec2982520e8585f",
-        createdAt: "2023-04-16T07:57:31.184Z",
-        updatedAt: "2023-04-16T07:57:31.184Z"
     }
 ]
 
